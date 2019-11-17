@@ -29,8 +29,14 @@ For UI tests the relevant folders are: ui/, tests/e2e/ and utilities/
 
 By default UI tests are running on Firefox local browser. To run on local Chrome or InternetExplorer update
 
-BROWSER
-LOCAL_IE_PATH
-LOCAL_CHROME_PATH
+> BROWSER 
+
+> LOCAL_IE_PATH 
+
+> LOCAL_CHROME_PATH
 
 in ui/ui_config.py file.
+
+### Automation Test Report
+Will be generated in project root folder and is called **report.html**
+ 
