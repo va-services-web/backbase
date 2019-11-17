@@ -4,10 +4,11 @@ Test automation framework using Selenium WebDriver, Python3, Requests and PyTest
 
 Solution was developed and tested on Windows 10.
 
-The Test Cases & Test Report docs are in docs folder
+The Test Cases & Test Report docs are in docs folder.
 
-For API tests the relevant folders are: api/, tests/api/ and utilities/
-For UI tests the relevant folders are: ui/, tests/e2e/ and utilities/
+For API tests the relevant folders are: api/, tests/api/ and utilities/.
+
+For UI tests the relevant folders are: ui/, tests/e2e/ and utilities/.
 
 ## How to run automation
 
